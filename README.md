@@ -2,7 +2,7 @@
 It's advanced freecam &amp; first person view mod for DOA5LR.
 # DOA5LR Freecam & First-Person Mod
 
-**Version 1.0.1**
+
 
 ## Installation
 
