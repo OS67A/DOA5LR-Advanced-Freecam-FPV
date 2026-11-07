@@ -1,8 +1,16 @@
-# DOA5LR-Advanced-Freecam-FPV
-It's advanced freecam &amp; first person view mod for DOA5LR.
 # DOA5LR Freecam & First-Person Mod
 
+**Version 1.0.3**
 
+## 1.0.3 Features
+
+- First-person FOV is **80 degrees vertically** (about **112.3 degrees horizontally** at 16:9).
+- While being thrown, first-person view tilts **5 degrees downward relative to the character's head**. Eye position and head tracking are unchanged, and the camera does not lock onto the opponent. The offset eases in and returns smoothly to the normal head-relative angle when the throw ends.
+
+## 1.0.2 Features
+
+- Increased the first-person vertical FOV from **60 to 68 degrees** (about 100 degrees horizontally at 16:9).
+- Fixed first-person view unexpectedly reverting to a fixed freecam position when fighter tracking data was briefly unavailable. First-person and orbit modes now hold their last view and resume tracking automatically.
 
 ## Installation
 
