@@ -1,6 +1,5 @@
 # DOA5LR Freecam & First-Person Mod
 
-**Version 1.0.3(optional wider-FOV FPV)**
 
 ## 1.0.3 Features
 
